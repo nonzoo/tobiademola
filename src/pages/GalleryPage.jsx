@@ -2,13 +2,13 @@ import React, { useState, useEffect } from "react";
 
 const galleryData = [
   {
-    src: "public/Gallery/WhatsApp Image 2026-01-07 at 3.53.48 PM.jpeg",
+    src: "Gallery/WhatsApp Image 2026-01-07 at 3.53.48 PM.jpeg",
     caption: "Worship Impact ",
     details: "Kaduna 2026",
     aspect: "3/5",
   },
   {
-    src: "/Gallery/WhatsApp Image 2026-01-08 at 9.25.19 PM.jpeg",
+    src: "Gallery/WhatsApp Image 2026-01-08 at 9.25.19 PM.jpeg",
     caption: "Live Session",
     details: "",
     aspect: "3/4",
@@ -20,19 +20,19 @@ const galleryData = [
     aspect: "1/1",
   },
   {
-    src: "public/Gallery/WhatsApp Image 2026-01-07 at 3.53.52 PM.jpeg",
+    src: "Gallery/WhatsApp Image 2026-01-07 at 3.53.52 PM.jpeg",
     caption: "Campus Revival",
     details: "Tour 2026",
     aspect: "4/4",
   },
   {
-    src: "public/Gallery/WhatsApp Image 2026-01-07 at 4.00.55 PM.jpeg",
+    src: "Gallery/WhatsApp Image 2026-01-07 at 4.00.55 PM.jpeg",
     caption: "Studio Session",
     details: "December 2025",
     aspect: "4/3",
   },
   {
-    src: "public/Gallery/WhatsApp Image 2026-01-08 at 11.18.19 PM.jpeg",
+    src: "Gallery/WhatsApp Image 2026-01-08 at 11.18.19 PM.jpeg",
     caption: "Been So Good",
     details: "Art Cover 2025",
     aspect: "3/4",
